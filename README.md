@@ -11,7 +11,10 @@
 
 记录位于 [`answers/`](answers/) 目录。
 
-首篇记录：[工作流设置与 Edge Pro 联调测试](answers/2026-08/2026-08-20-workflow-setup-edge-test.md)
+记录索引：
+
+- [工作流设置与 Edge Pro 联调测试](answers/2026-08/2026-08-20-workflow-setup-edge-test.md)
+- [OPACT 中以时序优先、功耗次优的优化方案](answers/2026-08/2026-08-20-opact-timing-power-optimization.md)
 
 ## 隐私规则
 
